@@ -1,9 +1,7 @@
 # Bitcoin-Improvement-Proposal-1-BIP-Allocation-of-Bitcoin-s-Computing-Power-for-Ransomware
-Bitcoin Improvement Proposal 1 (BIP): Allocation of Bitcoin’s Computing Power for Ransomware
-Please note, this was written with the help of ChatGPT:
 
-Title: Allocation of Bitcoin’s Computing Power for Ransomware 
-Decryption Assistance
+Title: Allocation of Bitcoin’s Computing Power for Ransomware Decryption Assistance
+
 Author: BBCD Satoshi
 
 Status: Draft
